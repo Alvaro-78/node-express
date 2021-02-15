@@ -1,0 +1,1 @@
+const url = fetch("www.google.es").then(console.log);
